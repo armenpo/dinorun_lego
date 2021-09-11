@@ -1,3 +1,5 @@
+# LEGO Education
+
 # DinoRun
 
 A simple 2D game inspired by Google Chrome's dinosaur game.
@@ -8,7 +10,7 @@ A simple 2D game inspired by Google Chrome's dinosaur game.
 
 <a href="https://youtu.be/KDXVqCd4u3Q"><img src="/screenshots/dinorun_2.jpg" width="600px"/></a>
 
-## Project Information:
+## Project Information!:
 
 **Project Title:** Dino Run<br>
 **Project Type:** 2D Game
